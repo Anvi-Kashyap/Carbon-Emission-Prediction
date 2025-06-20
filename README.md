@@ -1,5 +1,8 @@
 # 🌍 Prediction of CO₂ Emission From Country-Specific Data
 
+![image](https://github.com/user-attachments/assets/13ed504b-bb6b-47e1-b870-eb0fe4c4e0f3)
+
+
 ## 📌 Introduction
 
 Climate change is one of the most pressing global challenges of our time. One of its main drivers is the emission of greenhouse gases—particularly carbon dioxide (CO₂). Understanding what factors influence CO₂ emissions at a national level can help policymakers and researchers devise better strategies for mitigation.
