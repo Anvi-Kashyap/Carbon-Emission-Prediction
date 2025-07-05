@@ -27,6 +27,8 @@ The goal of this project is to analyze and model CO₂ emissions based on a wide
 
 By the end of this project, a clean, usable dataset is created and used to build predictive models that can estimate CO₂ emissions using various national parameters.
 
+Link to the Model:https://drive.google.com/file/d/1MR23fL7n8BiiVvqtNbD1WQ8Bk78vqj2C/view?usp=drive_link
+
 ---
 
 ## 📂 Description of the Data
